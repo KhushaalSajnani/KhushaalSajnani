@@ -6,7 +6,7 @@
 ## <div align="center">I'm Khushaal, a passionate Front-End Developer and a Full Time AWS Engineer 👨‍💻 working in an American MNC!</div>  
   
 
-- 🔭 I’m currently working on [Expense-Tracker](https://github.com/KhushaalSajnani/expense-tracker-react)  
+- 🔭 I’m currently working on [Next.Js+TailwindCSS](https://nextjs.org/)  
   
 
 - 🌱 I’m currently learning Next.Js  
