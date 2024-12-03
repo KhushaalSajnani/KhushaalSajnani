@@ -3,10 +3,10 @@
 </div>  
   
 
-## <div align="center">I'm Khushaal, a passionate Front-End Developer and a Full Time AWS Engineer 👨‍💻 working in an American MNC!</div>  
+## <div align="center">I'm Khushaal, a passionate Data Engineer and a Full Time Python Developer 👨‍💻 working in an American MNC!</div>  
   
 
-- 🔭 I’m currently working on [Next.Js+TailwindCSS](https://nextjs.org/)  
+- 🔭 I’m currently working on [Data Analysis and Extraction using Pandas](https://github.com/KhushaalSajnani/py-pandas/tree/master)  
   
 
 - 🌱 I’m currently learning Next.Js  
